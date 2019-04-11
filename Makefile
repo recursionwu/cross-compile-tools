@@ -1,4 +1,4 @@
 cross-compile-tools-projects: 
 
 all: 
-        echo $(rootdir)
+	echo $(rootdir)
